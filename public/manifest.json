@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Excalidraw history",
+  "version": "0.0.1",
+  "icons": {
+    "32": "icon32.png",
+    "192": "icon192.png"
+  },
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
